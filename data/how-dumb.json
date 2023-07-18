@@ -1,0 +1,12 @@
+[
+  {
+    "id": 1,
+    "question": "When was the first computer invented?",
+    "answer": "The first computer was invented in 1943."
+  },
+  {
+    "id": 2,
+    "question": "When was the first car invented?",
+    "answer": "The first car was invented in 1886."
+  }
+]
